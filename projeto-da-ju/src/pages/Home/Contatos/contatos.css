@@ -1,0 +1,15 @@
+.faixa3{
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    top: 25vh;
+    width: 100%;
+    height: 500px;
+    background-color: #ffc8c8;
+}
+.mensagem3{
+    padding-top: 10px;
+    color: #ff7474;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+}

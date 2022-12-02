@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap'); 
+
+  .faixa2{
+        display: flex;
+        justify-content: center;
+        position: fixed;
+        top: 25vh;
+        width: 100%;
+        height: 500px;
+        background-color: #ffc8c8;
+    
+}
+.mensagem2{
+    padding-top: 10px;
+    color: #ff7474;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    position: fixed;
+    margin-right: 800px;
+}
+.s1{
+    position: fixed;
+    padding-top: 200px;
+    margin-right: 900px;
+    width: 200px;
+    color:#bb5c5c;
+    font-size: 20px;
+}
+.s2{
+    position: fixed;
+    padding-top: 200px;
+    margin-right: 200px;
+    width: 300px;
+    color:#bb5c5c;
+    font-size: 20px;
+}
+.s3{
+    position: fixed;
+    padding-top: 200px;
+    margin-left: 500px;
+    width: 200px;
+    color:#bb5c5c;
+    font-size: 20px;
+}
+.icon1{
+    color:#bb5c5c;
+    font-size: 45px; 
+    position: fixed;
+    top: 42vh;
+    left: 36vh;
+    -moz-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+.icon2{
+    color:#bb5c5c;
+    font-size: 43px; 
+    position: fixed;
+    top: 42.5vh;
+    left: 67.6vh;
+}
+.icon3{
+    color:#bb5c5c;
+    font-size: 46px; 
+    position: fixed;
+    top: 42.2vh;
+    left: 110vh;
+}
+.arqui{
+    height: 40vh;
+    position: fixed;
+    left: 150vh;
+    top: 30vh;
+}
